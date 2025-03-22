@@ -7,14 +7,20 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
+langchainhub
+langchain-huggingface
 
 groq
 
-faiss-cpu
-
 pypdf
+beautifulsoup4
 
 numpy
 pandas
+#tiktoken
+transformers
+
+faiss-cpu
+chromadb
 
 pydantic
