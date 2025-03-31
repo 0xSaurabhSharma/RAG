@@ -1,0 +1,8 @@
+streamlit
+langchain_core
+langchain_community
+unstructured[pdf]
+pdfplumber
+rank_bm25
+nltk
+google
